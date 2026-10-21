@@ -26,7 +26,7 @@ authors:
   - me
 
 tags:
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - STAR
   - Heavy-Ion Collisions
   - QCD

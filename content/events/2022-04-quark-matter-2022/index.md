@@ -20,7 +20,7 @@ authors:
   - me
 
 tags:
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - STAR
 
 featured: false

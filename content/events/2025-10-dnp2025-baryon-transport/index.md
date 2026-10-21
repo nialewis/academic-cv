@@ -21,7 +21,7 @@ authors:
   - me
 
 tags:
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - Heavy-Ion Collisions
   - QCD
 

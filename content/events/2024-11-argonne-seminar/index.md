@@ -22,7 +22,7 @@ authors:
 
 tags:
   - Spin Physics
-  - Baryon Stopping & Junctions
+  - Baryon Junction
 
 featured: false
 

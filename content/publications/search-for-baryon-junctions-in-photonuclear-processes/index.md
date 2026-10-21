@@ -33,7 +33,7 @@ abstract: "During the early development of quantum chromodynamics, it was propos
 summary: "Proposes and analyzes tests of the gluon junction hypothesis for baryon number transport using isobar collisions and semi-inclusive photonuclear processes at RHIC kinematics."
 
 tags:
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - Photonuclear Collisions
   - Heavy-Ion Collisions
   - QCD

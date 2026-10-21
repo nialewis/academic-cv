@@ -9,7 +9,7 @@ tags:
   - QCD
   - STAR
   - RHIC
-  - Baryon Stopping & Junctions
+  - Baryon Junction
 
 image:
   caption: 'Image credit: [**Brookhaven National Laboratory**](https://www.bnl.gov/newsroom/news.php?a=122692)'

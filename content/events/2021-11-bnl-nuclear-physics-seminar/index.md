@@ -21,7 +21,7 @@ authors:
   - me
 
 tags:
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - Spin Physics
 
 featured: false

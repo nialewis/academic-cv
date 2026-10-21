@@ -24,7 +24,7 @@ summary: "Measurements of baryon number over electric charge in isobar collision
 
 tags:
   - STAR
-  - Baryon Stopping & Junctions
+  - Baryon Junction
   - Heavy-Ion Collisions
   - RHIC
 
