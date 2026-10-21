@@ -1,0 +1,126 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dr. Nicole Lewis
+  given: Nicole
+  family: Lewis
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: she/her
+postnominals:
+  - PhD
+status:
+  # icon: "⚛️"
+role: Rice Academy Postdoctoral Fellow
+bio: |
+  I am a Postdoctoral Researcher at Rice University, studying photon-nucleus collisions recorded by the **CMS** experiment at the LHC.  Previously, I worked on both the **STAR** and **PHENIX** experiments at RHIC.
+
+  My research focuses on the strong nuclear force, one of the four fundamental forces of nature that binds protons and neutrons together to form nuclei.  I am studying the nature of Quantum Chromodynamics, baryon structure, collectivity in small systems and detector instrumentation.  
+affiliations:
+  - name: Rice University
+    url: https://physics.rice.edu/
+
+links:
+  - icon: at-symbol
+    url: mailto:nicole.lewis@rice.edu
+    label: E-mail Me
+  - icon: academicons/inspire
+    url: https://inspirehep.net/authors/1794659
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/nicole-lewis-26b4a3168/
+
+interests:
+  - Quantum Chromodynamics (QCD)
+  - Baryon Transport
+  - Photonuclear Collisions
+  - Collectivity in Small Systems
+  - Electron Ion Collider (EIC)
+  - Mentorship & Outreach
+
+education:
+  - degree: PhD in Physics
+    institution: University of Michigan, Ann Arbor
+    end: 2020
+    year: 2020
+    summary: |
+      Thesis: *Transverse Single-Spin Asymmetries of Midrapidity Direct Photons, Neutral Pions, and Eta Mesons in 200 GeV Polarized Proton-Proton Collisions at PHENIX* (arXiv:2008.04283 [hep-ex]).  
+      Advisor: Professor Christine Aidala
+    button:
+      text: View Dissertation
+      url: https://arxiv.org/abs/2008.04283
+      icon: hero/arrow-top-right-on-square
+  - degree: BA in Physics, Minor in Forestry and Natural Resources
+    institution: University of California, Berkeley
+    end: 2015
+    year: 2015
+
+experience:
+  - role: Postdoctoral Researcher & Rice Academy Postdoctoral Fellow
+    org: Rice University
+    url: https://www.rice.edu/
+    start: 2023-07-01
+    summary: |
+      **Collaboration:** CMS
+      * Observed a long-range near-side peak in high-multiplicity photonuclear collisions. This two-particle correlations analysis was performed on PbPb data and was the first clear indication of high-energy density QCD dynamics happening in photonuclear collisions.
+      * Measurement of identical-particle femtoscopic correlations in high-multiplicity photonuclear collisions in order to probe the spatial dimensions of these photonuclear collisions.
+      * Measurement of the J/ψ and ψ(2s) cross sections in coherent ultraperipheral PbPb collisions, which are sensitive to the internal structure of these nuclei.
+      * Managed project on the Endcap Timing Layer (ETL) detector for the CMS upgrade, designed the high-voltage map, maintained a test stand for developing front-end electronics, and took data to test those electronics at a test beam facility.
+      * Led initiative to push the Level-1 tracking trigger for the CMS upgrade to lower momentum tracks. This trigger would become one of the main triggers for recording heavy-ion collision data at CMS.
+  - role: Research Associate
+    org: Brookhaven National Laboratory
+    url: https://www.bnl.gov/
+    start: 2020-09-01
+    end: 2023-06-30
+    summary: |
+      **Collaboration:** STAR
+      * Implemented initial analysis of baryon stopping in inclusive photonuclear collisions in AuAu data. This measurement was found to be sensitive to the baryon number carrier and inconsistent with the conventional model of the valence quarks carrying baryon number and has been published as Science 393, 727 (2026).
+      * Contributed to the commissioning and calibration of the Small-Strip Thin Gap Chamber (sTGC) for the STAR forward upgrade.
+  - role: Graduate Student Research Assistant
+    org: University of Michigan, Ann Arbor
+    url: https://umich.edu/
+    start: 2016-05-01
+    end: 2020-08-31
+    summary: |
+      **Collaboration:** PHENIX, sPHENIX
+      * Wrote a thesis on analyses of spin-momentum correlations in transversely polarized proton-proton collisions recorded by PHENIX using direct photons, neutral pions, and eta mesons.
+      * Developed and maintained a quality assurance tester for silicon photomultipliers (SiPMs) for the sPHENIX calorimeters. Managed the Michigan team by coordinating a testing schedule for team members.
+
+skills:
+  - name: Research & Experimental Techniques
+    items:
+      - label: Experimental Nuclear & High Energy Physics
+        level: 5
+      - label: Heavy-Ion & Photonuclear Collision Analysis
+        level: 5
+      - label: Detector Instrumentation (SiPMs, ETL, sTGC)
+        level: 5
+  - name: Teaching, Mentorship & Service
+    items:
+      - label: Graduate & Undergraduate Mentorship
+        level: 5
+      - label: Physics Instruction (Electrodynamics, Mechanics)
+        level: 5
+      - label: Workshop & Conference Organization
+        level: 5
+
+awards:
+  - title: Rice Academy Fellowship
+    awarder: Rice University
+    date: "2023-03-01"
+    summary: Prestigious postdoctoral fellowship supporting exceptional interdisciplinary scholars at Rice University.
+    icon: hero/academic-cap
+  - title: Quark Matter 2022 Best Poster Award
+    awarder: Quark Matter 2022 (Krakow, Poland)
+    date: "2022-04-01"
+    summary: Selected as one of 10 best posters out of 500 presented at the conference.
+    icon: hero/trophy
+  # - title: Baer Fellowship
+  #   awarder: University of Michigan Physics Department
+  #   date: "2015-04-01"
+  #   icon: hero/star
+  # - title: Dean’s Honors
+  #   awarder: University of California, Berkeley
+  #   date: "2013-12-01"
+  #   summary: Letters and Sciences Undergraduate Dean's Honors.
+  #   icon: hero/sparkles
